@@ -1,6 +1,6 @@
 # generate_qr_code
 
-A new Flutter project.
+An application where you can create qr code in a simple way.
 
 ## Getting Started
 
