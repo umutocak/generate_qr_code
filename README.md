@@ -1,6 +1,6 @@
 # generate_qr_code
 
-An application where you can create qr code in a simple way.
+Girdiğiniz herhangi bir text verisini qr code olarak hazırlayan basit bir uygulamadır. Web siteniz, sosyal medya adresleriniz gibi bir çok hesabınıza qr code oluşturup istediğiniz yerde kullanabilirsiniz.
 
 ## Getting Started
 
